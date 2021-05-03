@@ -52,7 +52,7 @@ namespace IT_praktika_11
         Refresh(); //вызываем функцию перерисовки окна
       }
     }
-
+     
     private void button3_Click(object sender, EventArgs e)
     {
       if (pictureBox1.Image != null)
